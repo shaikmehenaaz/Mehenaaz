@@ -504,10 +504,10 @@ img {
 }
 
 .skills__aws{
-  width: 70%;
+  width: 100%;
 }
 .skills__cloud{
-  width: 100%;
+  width: 85%;
 }
 .skills__ml{
   width: 90%;
@@ -533,9 +533,12 @@ img {
   width: 90%;
 }
 .skills__git{
-  width: 85%;
+  width: 100%;
 }
 .skills__arduino{
+  width: 90%;
+}
+.skills__azure{
   width: 85%;
 }
 
