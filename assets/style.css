@@ -509,11 +509,11 @@ img {
 .skills__cloud{
   width: 85%;
 }
-.skills__ml{
-  width: 90%;
-}
-.skills__keras{
+.skills__azure{
   width: 85%;
+}
+.skills__postman{
+  width: 90%;
 }
 
 .skills__java{
@@ -524,9 +524,6 @@ img {
 }
 .skills__sql{
   width: 90%;
-}
-.skills__html{
-  width: 60%;
 }
 
 .skills__machine{
